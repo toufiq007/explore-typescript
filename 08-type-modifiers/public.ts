@@ -24,3 +24,5 @@ class User {
 
 const limon = new User("limon@gmail.com", "sisisboss", "12121");
 limon.email;
+
+export {}
