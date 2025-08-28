@@ -72,3 +72,5 @@ function userAction2 (user:UserRole2){
 }
 userAction2("admin")
 
+
+export {}
